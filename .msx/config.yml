@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Sunscreen feels gross on dark skin
+slug: sunscreen-feels-gross-on-dark
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: sunscreen-feels-gross-on-dark.msx.dev
